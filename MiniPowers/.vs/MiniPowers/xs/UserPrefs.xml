@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9276491C-A4AE-3B06-F193-D5A79C52B2FF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MP_Scripts/CityHealthManager.cs">
+    <Files>
+      <File FileName="Assets/MP_Scripts/PlayerInputController.cs" Line="1" Column="1" />
+      <File FileName="Assets/MP_Scripts/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/MP_Scripts/EnemyController.cs" Line="16" Column="30" />
+      <File FileName="Assets/MP_Scripts/ARHitScript.cs" Line="11" Column="1" />
+      <File FileName="Assets/MP_Scripts/SoundManager.cs" Line="1" Column="10" />
+      <File FileName="Assets/MP_Scripts/CityHealthManager.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MiniPowers PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

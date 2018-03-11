@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 0f24cd11288df4ef38a87e8afa0dd86d
+timeCreated: 1520696484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 24_SGCWArmsHands_0.4_0_0
+    100002: 24_SGCWArmsSuit_1_0_0
+    100004: 24_SGCWChestEmblem_1_0_0
+    100006: 24_SGCWHead_0.4_0_0
+    100008: 24_SGCWHeadCapeA_1_0_0
+    100010: 24_SGCWHeadCapeB_1_0_0
+    100012: 24_SGCWHeadEarrings_5_0_0
+    100014: 24_SGCWHeadEyeballs_0.8_0_0
+    100016: 24_SGCWHeadEyelashesA_1_0_0
+    100018: 24_SGCWHeadEyelashesB_1_0_0
+    100020: 24_SGCWHeadHairA_1_0_0
+    100022: 24_SGCWHeadHairB_1_0_0
+    100024: 24_SGCWHeadMouth_0.8_0_0
+    100026: 24_SGCWLegsBoots_1_0_0
+    100028: 24_SGCWLegsThings_0.4_0_0
+    100030: 24_SGCWTorsoHipsBelt_5_0_0
+    100032: 24_SGCWTorsoHipsSkirtA_1_0_0
+    100034: 24_SGCWTorsoHipsSkirtB_1_0_0
+    100036: 24_SGCWTorsoHipsSuit_1_0_0
+    100038: 24_SGCWTorsoSuit_1_0_0
+    100040: arm left elbow
+    100042: arm left finger 1a
+    100044: arm left finger 1b
+    100046: arm left finger 1c
+    100048: arm left finger 1c_end
+    100050: arm left finger 2a
+    100052: arm left finger 2b
+    100054: arm left finger 2c
+    100056: arm left finger 2c_end
+    100058: arm left finger 4a
+    100060: arm left finger 4b
+    100062: arm left finger 4c
+    100064: arm left finger 4c_end
+    100066: arm left shoulder 1
+    100068: arm left shoulder 2
+    100070: arm left wrist
+    100072: arm right elbow
+    100074: arm right finger 1a
+    100076: arm right finger 1b
+    100078: arm right finger 1c
+    100080: arm right finger 1c_end
+    100082: arm right finger 2a
+    100084: arm right finger 2b
+    100086: arm right finger 2c
+    100088: arm right finger 2c_end
+    100090: arm right finger 4a
+    100092: arm right finger 4b
+    100094: arm right finger 4c
+    100096: arm right finger 4c_end
+    100098: arm right shoulder 1
+    100100: arm right shoulder 2
+    100102: arm right wrist
+    100104: Armature
+    100106: Camera
+    100108: cape left 1a
+    100110: cape left 1b
+    100112: cape left 1c
+    100114: cape left 1d
+    100116: cape left 1e
+    100118: cape left 1f
+    100120: cape left 1f_end
+    100122: cape left 2a
+    100124: cape left 2b
+    100126: cape left 2c
+    100128: cape left 2d
+    100130: cape left 2e
+    100132: cape left 2f
+    100134: cape left 2f_end
+    100136: cape middle 1a
+    100138: cape middle 1b
+    100140: cape middle 1c
+    100142: cape middle 1d
+    100144: cape middle 1e
+    100146: cape middle 1f
+    100148: cape middle 1f_end
+    100150: cape right 1a
+    100152: cape right 1b
+    100154: cape right 1c
+    100156: cape right 1d
+    100158: cape right 1e
+    100160: cape right 1f
+    100162: cape right 1f_end
+    100164: cape right 2a
+    100166: cape right 2b
+    100168: cape right 2c
+    100170: cape right 2d
+    100172: cape right 2e
+    100174: cape right 2f
+    100176: cape right 2f_end
+    100178: head jaw
+    100180: head jaw_end
+    100182: head neck lower
+    100184: head neck upper
+    100186: Lamp
+    100188: leg left ankle
+    100190: leg left knee
+    100192: leg left thigh
+    100194: leg left toes
+    100196: leg left toes_end
+    100198: leg right ankle
+    100200: leg right knee
+    100202: leg right thigh
+    100204: leg right toes
+    100206: leg right toes_end
+    100208: root ground
+    100210: root hips
+    100212: spine lower
+    100214: spine middle
+    100216: spine upper
+    100218: //RootNode
+    400000: 24_SGCWArmsHands_0.4_0_0
+    400002: 24_SGCWArmsSuit_1_0_0
+    400004: 24_SGCWChestEmblem_1_0_0
+    400006: 24_SGCWHead_0.4_0_0
+    400008: 24_SGCWHeadCapeA_1_0_0
+    400010: 24_SGCWHeadCapeB_1_0_0
+    400012: 24_SGCWHeadEarrings_5_0_0
+    400014: 24_SGCWHeadEyeballs_0.8_0_0
+    400016: 24_SGCWHeadEyelashesA_1_0_0
+    400018: 24_SGCWHeadEyelashesB_1_0_0
+    400020: 24_SGCWHeadHairA_1_0_0
+    400022: 24_SGCWHeadHairB_1_0_0
+    400024: 24_SGCWHeadMouth_0.8_0_0
+    400026: 24_SGCWLegsBoots_1_0_0
+    400028: 24_SGCWLegsThings_0.4_0_0
+    400030: 24_SGCWTorsoHipsBelt_5_0_0
+    400032: 24_SGCWTorsoHipsSkirtA_1_0_0
+    400034: 24_SGCWTorsoHipsSkirtB_1_0_0
+    400036: 24_SGCWTorsoHipsSuit_1_0_0
+    400038: 24_SGCWTorsoSuit_1_0_0
+    400040: arm left elbow
+    400042: arm left finger 1a
+    400044: arm left finger 1b
+    400046: arm left finger 1c
+    400048: arm left finger 1c_end
+    400050: arm left finger 2a
+    400052: arm left finger 2b
+    400054: arm left finger 2c
+    400056: arm left finger 2c_end
+    400058: arm left finger 4a
+    400060: arm left finger 4b
+    400062: arm left finger 4c
+    400064: arm left finger 4c_end
+    400066: arm left shoulder 1
+    400068: arm left shoulder 2
+    400070: arm left wrist
+    400072: arm right elbow
+    400074: arm right finger 1a
+    400076: arm right finger 1b
+    400078: arm right finger 1c
+    400080: arm right finger 1c_end
+    400082: arm right finger 2a
+    400084: arm right finger 2b
+    400086: arm right finger 2c
+    400088: arm right finger 2c_end
+    400090: arm right finger 4a
+    400092: arm right finger 4b
+    400094: arm right finger 4c
+    400096: arm right finger 4c_end
+    400098: arm right shoulder 1
+    400100: arm right shoulder 2
+    400102: arm right wrist
+    400104: Armature
+    400106: Camera
+    400108: cape left 1a
+    400110: cape left 1b
+    400112: cape left 1c
+    400114: cape left 1d
+    400116: cape left 1e
+    400118: cape left 1f
+    400120: cape left 1f_end
+    400122: cape left 2a
+    400124: cape left 2b
+    400126: cape left 2c
+    400128: cape left 2d
+    400130: cape left 2e
+    400132: cape left 2f
+    400134: cape left 2f_end
+    400136: cape middle 1a
+    400138: cape middle 1b
+    400140: cape middle 1c
+    400142: cape middle 1d
+    400144: cape middle 1e
+    400146: cape middle 1f
+    400148: cape middle 1f_end
+    400150: cape right 1a
+    400152: cape right 1b
+    400154: cape right 1c
+    400156: cape right 1d
+    400158: cape right 1e
+    400160: cape right 1f
+    400162: cape right 1f_end
+    400164: cape right 2a
+    400166: cape right 2b
+    400168: cape right 2c
+    400170: cape right 2d
+    400172: cape right 2e
+    400174: cape right 2f
+    400176: cape right 2f_end
+    400178: head jaw
+    400180: head jaw_end
+    400182: head neck lower
+    400184: head neck upper
+    400186: Lamp
+    400188: leg left ankle
+    400190: leg left knee
+    400192: leg left thigh
+    400194: leg left toes
+    400196: leg left toes_end
+    400198: leg right ankle
+    400200: leg right knee
+    400202: leg right thigh
+    400204: leg right toes
+    400206: leg right toes_end
+    400208: root ground
+    400210: root hips
+    400212: spine lower
+    400214: spine middle
+    400216: spine upper
+    400218: //RootNode
+    2000000: Camera
+    2100000: 24_SGCWTorsoSuit_1_0_0
+    2100002: 24_SGCWTorsoHipsSuit_1_0_0
+    2100004: 24_SGCWTorsoHipsSkirtB_1_0_0
+    2100006: 24_SGCWTorsoHipsSkirtA_1_0_0
+    2100008: 24_SGCWTorsoHipsBelt_5_0_0
+    2100010: 24_SGCWLegsThings_0.4_0_0
+    2100012: 24_SGCWLegsBoots_1_0_0
+    2100014: 24_SGCWHead_0.4_0_0
+    2100016: 24_SGCWHeadMouth_0.8_0_0
+    2100018: 24_SGCWHeadHairB_1_0_0
+    2100020: 24_SGCWHeadHairA_1_0_0
+    2100022: 24_SGCWHeadEyelashesB_1_0_0
+    2100024: 24_SGCWHeadEyelashesA_1_0_0
+    2100026: 24_SGCWHeadEyeballs_0.8_0_0
+    2100028: 24_SGCWHeadEarrings_5_0_0
+    2100030: 24_SGCWHeadCapeB_1_0_0
+    2100032: 24_SGCWHeadCapeA_1_0_0
+    2100034: 24_SGCWChestEmblem_1_0_0
+    2100036: 24_SGCWArmsSuit_1_0_0
+    2100038: 24_SGCWArmsHands_0.4_0_0
+    4300000: 24_SGCWTorsoSuit_1_0_0
+    4300002: 24_SGCWTorsoHipsSuit_1_0_0
+    4300004: 24_SGCWTorsoHipsSkirtB_1_0_0
+    4300006: 24_SGCWTorsoHipsSkirtA_1_0_0
+    4300008: 24_SGCWTorsoHipsBelt_5_0_0
+    4300010: 24_SGCWLegsThings_0.4_0_0
+    4300012: 24_SGCWLegsBoots_1_0_0
+    4300014: 24_SGCWHead_0.4_0_0
+    4300016: 24_SGCWHeadMouth_0.8_0_0
+    4300018: 24_SGCWHeadHairB_1_0_0
+    4300020: 24_SGCWHeadHairA_1_0_0
+    4300022: 24_SGCWHeadEyelashesB_1_0_0
+    4300024: 24_SGCWHeadEyelashesA_1_0_0
+    4300026: 24_SGCWHeadEyeballs_0.8_0_0
+    4300028: 24_SGCWHeadEarrings_5_0_0
+    4300030: 24_SGCWHeadCapeB_1_0_0
+    4300032: 24_SGCWHeadCapeA_1_0_0
+    4300034: 24_SGCWChestEmblem_1_0_0
+    4300036: 24_SGCWArmsSuit_1_0_0
+    4300038: 24_SGCWArmsHands_0.4_0_0
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: 24_SGCWArmsHands_0.4_0_0
+    13700002: 24_SGCWArmsSuit_1_0_0
+    13700004: 24_SGCWChestEmblem_1_0_0
+    13700006: 24_SGCWHead_0.4_0_0
+    13700008: 24_SGCWHeadCapeA_1_0_0
+    13700010: 24_SGCWHeadCapeB_1_0_0
+    13700012: 24_SGCWHeadEarrings_5_0_0
+    13700014: 24_SGCWHeadEyeballs_0.8_0_0
+    13700016: 24_SGCWHeadEyelashesA_1_0_0
+    13700018: 24_SGCWHeadEyelashesB_1_0_0
+    13700020: 24_SGCWHeadHairA_1_0_0
+    13700022: 24_SGCWHeadHairB_1_0_0
+    13700024: 24_SGCWHeadMouth_0.8_0_0
+    13700026: 24_SGCWLegsBoots_1_0_0
+    13700028: 24_SGCWLegsThings_0.4_0_0
+    13700030: 24_SGCWTorsoHipsBelt_5_0_0
+    13700032: 24_SGCWTorsoHipsSkirtA_1_0_0
+    13700034: 24_SGCWTorsoHipsSkirtB_1_0_0
+    13700036: 24_SGCWTorsoHipsSuit_1_0_0
+    13700038: 24_SGCWTorsoSuit_1_0_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

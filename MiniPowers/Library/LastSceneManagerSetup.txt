@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MP_Scenes/MiniPowers_DemoScene_LevelDesign.unity
+  isLoaded: 1
+  isActive: 1
